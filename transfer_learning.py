@@ -3,7 +3,7 @@
 # https://www.lovesaroha.com (website)
 # https://github.com/lovesaroha  (github)
 
-# Train keras model on cats and dogs images.
+# Train keras model on rock, paper, scissors images.
 from tensorflow import keras
 import numpy
 from keras.preprocessing import image
